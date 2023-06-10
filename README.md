@@ -2,9 +2,9 @@
 <h3 align="left">Passionate about coding and technical expertise to carry out innovative ideas with excellent problem-solving skills and the ability to perform well in a team.</h3>
 
 - 👋 Hi, I’m Harshada Mandlik
-- 
+
 - 👀 I’m interested in Software Development
-- 
+
 - 🌱 I’m currently pursuing BCA
 
 - 📫 How to reach me **harshadavmandlik2003@gmail.com**
