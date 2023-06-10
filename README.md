@@ -1,7 +1,5 @@
-<h1 align="left">Hi 👋, I'm Harshada Mandlik</h1>
+<h1 align="left"> 👋 Hi, I'm Harshada Mandlik</h1>
 <h3 align="left">Passionate about coding and technical expertise to carry out innovative ideas with excellent problem-solving skills and the ability to perform well in a team.</h3>
-
-- 👋 Hi, I’m Harshada Mandlik
 
 - 👀 I’m interested in Software Development
 
